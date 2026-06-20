@@ -1,0 +1,16 @@
+{
+	"manifest_version": 1,
+	"id": "com.bulkPrefix.Incremental",
+	"app_min_version": "2.0",
+	"version": "1.0.0",
+	"name": "Bulk Incremental Prefix Renamer",
+	"description": "Bulk rename notes with a incrementing prefix.",
+	"author": "VibeCoderDudez",
+	"homepage_url": "",
+	"repository_url": "https://github.com/wstalk266-commits/bulkRenameIncrementingPrefix",
+	"keywords": [],
+	"categories": [],
+	"screenshots": [],
+	"icons": {},
+	"promo_tile": {}
+}
