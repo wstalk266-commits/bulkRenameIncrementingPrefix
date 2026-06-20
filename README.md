@@ -33,3 +33,13 @@ Turns into:
 
 Works like a charm!
 
+\-----------------------------
+
+# How to use it?
+
+It's quite simple. Just go to Tools > Options > Plugins > Gearwheel Icon > Install from file > Upload the .JPL file.
+
+
+
+The others are just for the sake of open source the tech savier ones know how to work with it. Vibecoded in a minute!
+
